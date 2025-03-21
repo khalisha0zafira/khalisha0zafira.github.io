@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "HTML link dan lists"
+title: "HTML Link dan List"
 ---
 
-penjelasan tentang link dan lists pada html
+Penjelasan Tentang Link dan List pada HTML
 
-![HTML Link dan Lists](/assets/images/khalisha.jpeg)
+![HTML link dan List](/assets/images/khalisa.jpeg)
