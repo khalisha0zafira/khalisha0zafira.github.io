@@ -1,6 +1,6 @@
-url: 'https://github.com/khalisha0zafira/khalisha0zafira.github.io.git'
+url: 'https://khalisha0zafira.github.io'
 
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
+  - jekyll-feed
   - jekyll-seo-tag
