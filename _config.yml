@@ -1,0 +1,6 @@
+url: 'https://github.com/khalisha0zafira/khalisha0zafira.github.io.git'
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
