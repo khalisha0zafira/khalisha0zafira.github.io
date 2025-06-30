@@ -9,6 +9,6 @@ descreption:
 url: 'https://khalisha0zafira.github.io'
 
 plugins:
-  - jekyll-sitemap
   - jekyll-feed
+  - jekyll-sitemap
   - jekyll-seo-tag
