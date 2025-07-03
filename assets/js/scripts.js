@@ -1,3 +1,3 @@
 function myfunction() {
-    alert("kok di klik sih!");
+    alert("Penasaran banget ya sampe di klik gitu!");
 } 
