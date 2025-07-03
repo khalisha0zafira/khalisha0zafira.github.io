@@ -3,7 +3,7 @@ layout: post
 title: "Java script dan config.yml"
 ---
 
-JAVASCRIPT DAN CONFIG YML
+Javascript Dan Config Yml
 
 1. JavaScript:
 
