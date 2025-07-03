@@ -10,7 +10,8 @@ Cara menjalankan jekyll serve
   berikut: gem install jekyll bundle
            bundle init
 - kemudian masuk ke folder gemfile yang muncul dan tambahkan gem "jekyll" di baris baru
-- tambahkan file baru dengan nama index.html dan isi dengan kode berikut:    
+- tambahkan file baru dengan nama index.html dan isi dengan kode berikut: 
+   
   <!DOCTYPE html>
   <html>
   <head>
